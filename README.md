@@ -16,6 +16,15 @@
   </svg>
 </p>
 
+<!-- =======================
+     WEBSITE LINKS (NEW)
+======================= -->
+
+<p align="center">
+  <a href="https://www.chasesinghofen.com/">🌐 Personal Website</a> •
+  <a href="https://certs-degree.netlify.app/">🎓 Certs & Degree Portal</a>
+</p>
+
 ---
 
 # 🩺 Clinical Engineering Tools  
@@ -33,7 +42,6 @@ A curated collection of CE-focused Gists showcasing workflow automation, documen
   <img style="pointer-events:none;" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img style="pointer-events:none;" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
 
 ---
 
