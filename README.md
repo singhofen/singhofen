@@ -17,7 +17,7 @@
 </p>
 
 <!-- =======================
-     WEBSITE LINKS (NEW)
+     WEBSITE LINKS
 ======================= -->
 
 <p align="center">
@@ -87,6 +87,37 @@ Designed for portfolio use and CE/BMET job interviews.
 https://gist.github.com/singhofen/e64557f6d8facf0b3f1972b64c7e1f00
 
 </details>
+
+---
+
+## 🚀 Web Dev Experience Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Developer-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-58a6ff?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio%20Projects-00b894?style=for-the-badge&logo=code&logoColor=white" />
+</p>
+
+- 🧑‍💻 **Personal Portfolio**
+  - Professional presence & project showcase  
+  🔗 https://www.chasesinghofen.com/
+
+- 🎓 **Certs & Degree Portal**
+  - Custom-built site to help students track certifications & education  
+  🔗 https://certs-degree.netlify.app/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=singhofen&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhofen&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=singhofen&theme=tokyonight" />
+</p>
 
 ---
 
