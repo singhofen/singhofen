@@ -1,4 +1,5 @@
-## 🚀 Web Dev Experience Highlights
+## 🚀 Clinical Engineering + Software Development
+Building practical tools for healthcare and clinical workflows.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=singhofen)
 ![Followers](https://img.shields.io/github/followers/singhofen?label=Followers)
@@ -6,7 +7,7 @@
 
 
 🧑‍💻 **Personal Portfolio**
-  - Professional presence & project showcase  
+  - Professional presence  
   🔗 https://www.chasesinghofen.com/
 
  🎓 **Certs & Degree Portal**
@@ -103,14 +104,12 @@ https://gist.github.com/singhofen/e64557f6d8facf0b3f1972b64c7e1f00
 </details>
 
 ---
+## 🤝 Open to
+- Clinical Engineering / BMET roles  
+- MedTech Field Service opportunities  
+- Healthcare-focused web tools & internal dashboards
 
 <p align="center"><i>More CE tools and web utilities coming soon.</i></p>
-
----
-
-## 📊 GitHub Stats & Activity
-![Profile Views](https://komarev.com/ghpvc/?username=singhofen&label=Profile%20views)
-
 
 ---
 ## 🌐 Connect
