@@ -1,5 +1,10 @@
 ## 🚀 Web Dev Experience Highlights
 
+![Profile Views](https://komarev.com/ghpvc/?username=singhofen)
+![Followers](https://img.shields.io/github/followers/singhofen?label=Followers)
+
+
+
 🧑‍💻 **Personal Portfolio**
   - Professional presence & project showcase  
   🔗 https://www.chasesinghofen.com/
@@ -101,32 +106,11 @@ https://gist.github.com/singhofen/e64557f6d8facf0b3f1972b64c7e1f00
 
 <p align="center"><i>More CE tools and web utilities coming soon.</i></p>
 
-
-
----
-
-## 🎴 Animated Style Project Cards
-
-<p align="center">
-  <a href="https://github.com/singhofen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=singhofen&repo=singhofen&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/singhofen">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhofen&layout=compact&theme=tokyonight" />
-  </a>
-</p>
-
 ---
 
 ## 📊 GitHub Stats & Activity
+![Profile Views](https://komarev.com/ghpvc/?username=singhofen&label=Profile%20views)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhofen&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=singhofen&theme=tokyonight" />
-</p>
 
 ---
 ## 🌐 Connect
