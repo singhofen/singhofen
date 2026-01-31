@@ -114,12 +114,13 @@ https://gist.github.com/singhofen/e64557f6d8facf0b3f1972b64c7e1f00
 ---
 ## 🌐 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhofen)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/singhofen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhofen/)
-[![Blogger](https://img.shields.io/badge/Blogger-F57D00?style=for-the-badge&logo=blogger&logoColor=white)](https://scam-emails.blogspot.com/)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/csinghofen)
-[![Certs Portal](https://img.shields.io/badge/Certs-005BBB?style=for-the-badge&logoColor=white)](https://certs-degree.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhofen)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhofen)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logoColor=white)](https://www.chasesinghofen.com/)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/singhofen)  
 
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/csinghofen)  
+[![Certs Portal](https://img.shields.io/badge/Certs-005BBB?style=for-the-badge&logoColor=white)](https://certs-degree.netlify.app/)  
+[![Blogger](https://img.shields.io/badge/Blogger-F57D00?style=for-the-badge&logo=blogger&logoColor=white)](https://scam-emails.blogspot.com/)
 
 
